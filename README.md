@@ -3,3 +3,7 @@
 
 # Data Source:
 >The geojson dataset for boundaries of the countries have been taken from the following repo: https://github.com/datasets/geo-countries
+
+# Note:
+1. Since the data being displayed was too big to be displayed, thus, print statements have been inserted after each such line. It is upto the viewer to remove it if wants to view data
+2. Folium Map display is not supported by Github, thus, to view version of teh repo with folium maps being displayed, [click here]
